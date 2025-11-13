@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>images/icon/down_image.png</file>
+    <file>images/icon/person.png</file>
+    <file>images/icon/open_126062.png</file>
+    <file>images/icon/send_chat_off.png</file>
+    <file>images/icon/send_chat_on.png</file>
+    <file>images/icon/background_chat.png</file>
+    <file>images/icon/chat.png</file>
+    <file>images/icon/export_excel.png</file>
+    <file>images/icon/load_off.png</file>
+    <file>images/icon/load_on.png</file>
+    <file>images/icon/Search_no.png</file>
+    <file>images/icon/Search_yes.png</file>
+    <file>images/icon/filter_no.png</file>
+    <file>images/icon/filter_yes.png</file>
+    <file>images/icon/login_logo.png</file>
+    <file>images/icon/add_user.png</file>
+    <file>images/icon/changepassword_logo.png</file>
+    <file>images/icon/layout_logo.png</file>
+    <file>images/icon/factory.png</file>
+    <file>images/icon/User.png</file>
+    <file>images/icon/Inventory Management.png</file>
+    <file>images/icon/logo.png</file>
+    <file>images/icon/Zoom_des.png</file>
+    <file>images/icon/Zoom_ins.png</file>
+    <file>images/icon/Capture.png</file>
+    <file>images/icon/Camera.png</file>
+    <file>images/icon/Cancel.png</file>
+    <file>images/icon/Delete.png</file>
+    <file>images/icon/Edit.png</file>
+    <file>images/icon/Search.png</file>
+    <file>images/icon/New.png</file>
+    <file>images/icon/stock_entry_logo.png</file>
+    <file>images/icon/stock_release_logo.png</file>
+    <file>images/icon/check_no.png</file>
+    <file>images/icon/pngwing.com.png</file>
+    <file>images/icon/check_yes.png</file>
+    <file>images/icon/no_image.png</file>
+  </qresource>
+</RCC>
